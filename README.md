@@ -12,3 +12,6 @@ A beginner SQL project to track product stock, suppliers, and sales.
 - Relational database design
 - Using JOIN for multi-table queries
 - Conditional queries for stock monitoring
+
+## Example Query Result
+![Query Result Screenshot](inventory.sql.png)
